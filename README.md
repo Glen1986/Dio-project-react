@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Dio-project-react
 # yarn add @testing-library/react 12.x
 # yarn add -D  @testing-library/jest-dom
+# yarn add -D eslint-config-prettier prettier
