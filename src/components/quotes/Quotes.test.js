@@ -16,7 +16,7 @@ test("renders received quote, speaker and a button", () => {
   expect(buttonEl).toBeInTheDocument();
 });
 
-test("calls a calback when button is pressed", () => {
+test("calls a callback when button is pressed", () => {
   const callback = jest.fn();
 
   render(<Quotes quote={quote} speaker={speaker} onUpdate={callback} />);
